@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "angular-wishlist-simple"
+    }
+  },
+  "defaultProject": "angular-wishlist-simple",
+  "cli": {
+    "analytics": false
+  }
 }
